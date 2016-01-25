@@ -1,0 +1,36 @@
+E:\Data\Programming\layoutApp\layoutApp\bin\Debug\layoutApp.exe.config
+E:\Data\Programming\layoutApp\layoutApp\obj\Debug\layoutApp.csprojResolveAssemblyReference.cache
+E:\Data\Programming\layoutApp\layoutApp\obj\Debug\layoutApp.Properties.Resources.resources
+E:\Data\Programming\layoutApp\layoutApp\obj\Debug\layoutApp.csproj.GenerateResource.Cache
+E:\Data\Programming\layoutApp\layoutApp\bin\Debug\layoutApp.exe
+E:\Data\Programming\layoutApp\layoutApp\bin\Debug\layoutApp.pdb
+E:\Data\Programming\layoutApp\layoutApp\obj\Debug\layoutApp.exe
+E:\Data\Programming\layoutApp\layoutApp\obj\Debug\layoutApp.pdb
+E:\Data\Programming\layoutApp\layoutApp\obj\Debug\layoutApp.mainForm.resources
+E:\Data\Programming\layoutApp\layoutApp\obj\Debug\layoutApp.albumControlBar.resources
+E:\Data\Programming\layoutApp\layoutApp\obj\Debug\layoutApp.zoomControl.resources
+E:\Data\Programming\layoutApp\layoutApp\obj\Debug\layoutApp.icons.resources
+E:\Data\Programming\layoutApp - Copy\layoutApp\bin\Debug\layoutApp.exe.config
+E:\Data\Programming\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.exe
+E:\Data\Programming\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.pdb
+E:\Data\Programming\layoutApp - Copy\layoutApp\bin\Debug\layoutApp.exe
+E:\Data\Programming\layoutApp - Copy\layoutApp\bin\Debug\layoutApp.pdb
+E:\Data\Programming\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.csprojResolveAssemblyReference.cache
+E:\Data\Programming\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.albumControlBar.resources
+E:\Data\Programming\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.icons.resources
+E:\Data\Programming\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.mainForm.resources
+E:\Data\Programming\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.Properties.Resources.resources
+E:\Data\Programming\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.zoomControl.resources
+E:\Data\Programming\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.csproj.GenerateResource.Cache
+C:\Data\programming\older\layoutApp - Copy\layoutApp\bin\Debug\layoutApp.exe.config
+C:\Data\programming\older\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.exe
+C:\Data\programming\older\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.pdb
+C:\Data\programming\older\layoutApp - Copy\layoutApp\bin\Debug\layoutApp.exe
+C:\Data\programming\older\layoutApp - Copy\layoutApp\bin\Debug\layoutApp.pdb
+C:\Data\programming\older\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.csprojResolveAssemblyReference.cache
+C:\Data\programming\older\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.albumControlBar.resources
+C:\Data\programming\older\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.icons.resources
+C:\Data\programming\older\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.mainForm.resources
+C:\Data\programming\older\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.Properties.Resources.resources
+C:\Data\programming\older\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.zoomControl.resources
+C:\Data\programming\older\layoutApp - Copy\layoutApp\obj\Debug\layoutApp.csproj.GenerateResource.Cache
